@@ -1,5 +1,5 @@
 {
-  "intro": "I love to learn new things and experiment with new technologies.\nThese are some of the major languages, technologies, tools and platforms I have worked with:",
+  "intro": "I'm excited to share some of my skills with you. Feel free to browse my site or contact me to connect!",
   "skills": [
     {
       "title": "Languages & Databases",
@@ -42,7 +42,7 @@
           "title": "Redux"
         },
         {
-          "icon": "images/skills/clojurescript_logo.png",
+          "icon": "images/skills/re-frame-colour.png",
           "title": "Re-frame"
         },
         {
@@ -73,6 +73,14 @@
         {
           "icon": "images/skills/anypoint.svg",
           "title": "Anypoint"
+        },
+        {
+          "icon": "images/skills/salesforce.png",
+          "title": "Salesforce"
+        },
+        {
+          "icon": "images/skills/mulesoft_logo.png",
+          "title": "Mulesoft"
         }
       ]
     },
