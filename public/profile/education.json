@@ -1,6 +1,14 @@
 {
   "education": [
     {
+      "title": "Sep 2017 - Jan 2018",
+      "cardTitle": "NanoDegree, React Developer",
+      "cardSubtitle": "Udacity",
+      "icon": {
+        "src": "images/education/udacity.png"
+      }
+    },
+    {
       "title": "Mar 2015 - Abandoned",
       "cardTitle": "Bachelor,Internet Systems",
       "cardSubtitle": "Rio de Janeiro Federal Technology Center (CEFET), Rio de Janeiro",

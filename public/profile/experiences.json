@@ -39,6 +39,17 @@
                 "Streamlined the checkout process by implementing a user-friendly address management system."
             ],
             "dateText": "05/2019 – 10/2019"
+        },
+        {
+            "title": "Reseacher",
+            "subtitle": "Rio de Janeiro Federal University (UFRJ)",
+            "workType": "Full-time",
+            "workDescription": [
+                "Designed and implemented digital tools using specialized software to enhance chemistry education",
+                "Secured a grant from FAPERJ (Foundation for Research Support of the State of Rio de Janeiro) to support research activities",
+                "Designed and implemented a Kinect-based application to enhance student exploration of 3D molecular structures."
+            ],
+            "dateText": "03/2012 – 11/2015"
         }
     ]
 }
