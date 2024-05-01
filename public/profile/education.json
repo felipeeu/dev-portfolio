@@ -5,7 +5,7 @@
       "cardTitle": "Bachelor,Internet Systems",
       "cardSubtitle": "Rio de Janeiro Federal Technology Center (CEFET), Rio de Janeiro",
       "icon": {
-        "src": "images/education/lorem-ipsum.png"
+        "src": "images/education/cefet.jpg"
       }
     },
     {
@@ -13,7 +13,7 @@
       "cardTitle": "Post-Graduation, Chemistry",
       "cardSubtitle": "Rio de Janeiro Federal University (UFRJ), Rio de Janeiro",
       "icon": {
-        "src": "images/education/lorem-ipsum.png"
+        "src": "images/education/ufrj.png"
       }
     },
     {
@@ -21,14 +21,8 @@
       "cardTitle": "Bachelor, Chemistry",
       "cardSubtitle": "Rio de Janeiro Federal University (UFRJ), Rio de Janeiro",
       "icon": {
-        "src": "images/education/lorem-ipsum.png"
+        "src": "images/education/ufrj.png"
       }
-    },
-    {
-      "title": "Apr 20XX",
-      "cardTitle": "High School",
-      "cardSubtitle": "ABC School, City",
-      "cardDetailedText": "Marks - 95%"
     }
   ]
 }

@@ -1,33 +1,44 @@
 {
     "experiences": [
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
+            "title": "FullStack Developer",
+            "subtitle": "Object Edge Inc.",
             "workType": "Full-time",
             "workDescription": [
-                "Integrated **2** new product.",
-                "Worked on adding **def** to **bcd**. Improved speed by 50%."
+                "Monitored Salesforce health and performance to identify and troubleshoot issues proactively.",
+                "Ensured data integrity and accuracy through regular data cleansing and validation processes.",
+                "Implemented best architecture practices for building scalable and maintainable Typescript applications.",
+                "Designed and developed reusable Typescript components to promote code efficiency.",
+                "Adhered to clean code principles to ensure code readability, maintainability, and testability.",
+                "Achieved MuleSoft Developer Certified Professional status on Anypoint Platform.",
+                "Achieved Salesforce JavaScript Developer Certified Professional status."
             ],
-            "dateText": "06/20XX – Present"
+            "dateText": "07/2021 – Present"
         },
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
-            "workType": "Internship",
+            "title": "React Front-End Developer",
+            "subtitle": "DoctorWeb",
+            "workType": "Full-time",
             "workDescription": [
-                "Worked on abc."
+                "Designed and developed user-friendly front-end applications using HTML, CSS, JavaScript, React and NextJS.",
+                "Implemented responsive design principles to ensure applications function seamlessly across various devices (desktop, mobile, tablet).",
+                "Integrated front-end components with back-end services to deliver a cohesive user experience.",
+                "Successfully deployed front-end applications to production environments.",
+                "Monitored application performance and addressed any deployment issues proactively.",
+                "Integrated front-end components with back-end services to deliver a cohesive user experience"
             ],
-            "dateText": "01/20XX – 05/20XX"
+            "dateText": "12/2018 – 07/2021"
         },
         {
-            "title": "App Developer",
-            "subtitle": "ABC Pvt Ltd",
-            "workType": "Freelance",
+            "title": "React Native Developer",
+            "subtitle": "Farmazon",
+            "workType": "Part-time",
             "workDescription": [
-                "Developed the official apps for the startup for both Android and iOS using hybrid framework.",
-                "Done bcd work."
+                "Developed and implemented features related to product listings, user address management, and secure payment processing for the mobile app.",
+                "Defined and documented user requirements.",
+                "Streamlined the checkout process by implementing a user-friendly address management system."
             ],
-            "dateText": "09/20XX – 01/20YY"
+            "dateText": "05/2019 – 10/2019"
         }
     ]
 }
