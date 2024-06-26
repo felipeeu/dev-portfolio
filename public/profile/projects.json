@@ -34,6 +34,26 @@
             "tags" : [
                 "Clojure"
             ]
+        },
+        {
+            "image" : "images/projects/table.jpg",
+            "title": "Periodic Table",
+            "bodyText": "- Periodic Table for Chemistry classes.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/felipeeu/elements"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://felipeeu.github.io/elements"
+                }
+                
+            ],
+            "tags" : [
+                "TypeScript", 
+                "React"
+            ]
         }
 
       

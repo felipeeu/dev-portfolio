@@ -41,6 +41,16 @@
             "dateText": "05/2019 – 10/2019"
         },
         {
+            "title": "Clojure Fullstack Developer (intern)",
+            "subtitle": "Comida da Gente",
+            "workType": "Part-time",
+            "workDescription": [
+                "Developed and implemented admin pages for the project.",
+                "Worked on the Frontend with ClojureScript and Backend with Clojure."
+            ],
+            "dateText": "03/2017 – 11/2017"
+        },
+        {
             "title": "Reseacher",
             "subtitle": "Rio de Janeiro Federal University (UFRJ)",
             "workType": "Full-time",
