@@ -23,6 +23,7 @@ const styles = {
     display: 'flex',
   },
   image: {
+    borderRadius: '50%',
     maxHeight: '500px',
   },
 };
